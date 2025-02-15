@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @ghalixd
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning cpp
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me @oussamaghali_ on insta
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: direct short movies
 
 <!---
